@@ -1,3 +1,3 @@
-# MAZE DIGITAL
+# AI HUB
 
-Requirements form for maze digital.
+Requirements form for the AI HUB @ Durham College
